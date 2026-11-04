@@ -1,0 +1,2 @@
+# GENAI02
+GENAI02 Course
